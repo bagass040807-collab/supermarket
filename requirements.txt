@@ -1,4 +1,17 @@
+# Streamlit App Dependencies
 streamlit==1.52.1
-plotly==5.24.1
+
+# Data Processing
 pandas==2.3.3
 numpy==2.3.5
+
+# Visualization
+plotly==5.24.1
+
+# Excel Support
+openpyxl==3.1.5
+xlrd==2.0.1  # untuk file .xls lama
+
+# Optional: untuk format lain
+python-dateutil==2.9.0
+pytz==2025.2
